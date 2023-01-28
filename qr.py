@@ -13,7 +13,7 @@ def save_qr(qr, source, colour="", with_image=True):
         kwargs["embeded_image_path"] = f"site/fsob_logo{colour}.png"
     img = qr.make_image(image_factory=StyledPilImage, **kwargs)
     name = f"fsob_qr_{source}{colour}.png"
-    img.save(f"site/{name}")
+    img.save(f"docs/{name}")
     return name
 
 
