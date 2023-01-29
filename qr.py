@@ -29,6 +29,7 @@ url_list = {
     "b247": "http://futuresoundofbristol.com/?utm_campaign=launch&utm_source=b247&utm_medium=banner",
     "ooh": "http://futuresoundofbristol.com/?utm_campaign=launch&utm_source=ooh&utm_medium=print",
     "loud": "http://futuresoundofbristol.com/?utm_campaign=launch&utm_source=loud&utm_medium=print",
+    "zain": "http://futuresoundofbristol.com/?utm_campaign=launch&utm_source=zain&utm_medium=print",
 }
 
 for source, url in url_list.items():
