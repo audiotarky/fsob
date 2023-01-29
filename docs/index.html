@@ -4,11 +4,17 @@
     <title>Future Sound of Bristol</title>
     <style>
         body {
-            background-image: url('main.jpg');
+            background-image: url('main_16:9.jpg');
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: contain;
             color: white;
+        }
+
+        @media (orientation: portrait) {
+            body {
+                background-image: url('main_9:16.jpg');
+            }
         }
 
         #main {
