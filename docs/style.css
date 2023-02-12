@@ -1,0 +1,338 @@
+        body {
+            background-image: url('long_texture.jpg');
+            background-repeat: repeat-y;
+            background-size: cover;
+            background-position: bottom center;
+            color: white;
+            font-family: 'Space Grotesk', sans-serif;
+            margin: 0;
+            padding: 0;
+            width: 100vw;
+        }
+
+        .svg_button {
+            margin: 3em;
+        }
+
+        .title_image {
+            height: 65vh;
+            max-height: 600px;
+            max-width: 90vw;
+        }
+
+        .flex_section,
+        .intro,
+        .footer_flex_section {
+            display: flex;
+            flex-direction: row;
+        }
+
+        .section {
+            text-align: center;
+            padding-left: 8rem;
+            padding-right: 8rem;
+            max-width: 1200px;
+            margin: auto;
+        }
+
+        .logo_area {
+            height: 90vh;
+            max-height: 800px;
+        }
+
+        .svg_label {
+            text-transform: uppercase;
+            fill: white;
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 1.5em;
+        }
+
+        a {
+            color: white;
+            text-decoration: underline dotted;
+        }
+
+        .left {
+            float: left;
+            width: 40vw;
+        }
+
+        .top {
+            background-size: cover;
+            background-position: top center;
+            background-image: url('header_texture.jpg');
+        }
+
+        .spaced {
+            margin: 1em 0;
+        }
+
+        .right {
+            float: right;
+            width: 40vw;
+            text-align: right;
+        }
+
+        div {
+            border: 0px solid;
+        }
+
+        .video {
+            margin: 0;
+            height: 90vh;
+            width: 100vw;
+            background-color: #0a0b11e0;
+        }
+
+        h1 {
+            text-transform: uppercase;
+            font-size: 5em;
+            margin: 1em;
+        }
+
+        h2 {
+            font-size: 3em;
+            font-weight: 300;
+            margin: 0;
+        }
+
+        h3 {
+            font-size: 2em;
+            font-weight: 300;
+            margin: 0;
+        }
+
+        ul {
+            font-size: 1.5em;
+            margin: 0;
+        }
+
+        .header {
+            height: 5rem;
+            margin: 0 2em;
+            padding: 2em 0 0 0;
+        }
+
+        .header img {
+            height: 5rem;
+        }
+
+        .footer img {
+            height: 5rem;
+        }
+
+        .header_icon {
+            fill: rgba(255, 255, 255, 1);
+            padding: 5px;
+            width: 38.549px;
+            height: 38.549px;
+        }
+
+        .bottom {
+            background-color: #0a0b11d0;
+            width: 100vw;
+            margin: 5em auto 0;
+            padding: 5em 0;
+            border-top: 3px solid #ffffff;
+        }
+
+        .footer {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .footer h3 {
+            text-decoration: underline;
+        }
+
+        .intro {
+            padding: 0;
+            margin: 0;
+            font-size: 3em;
+            vertical-align: top;
+        }
+
+        .about {
+            /*  background-color: #FB585Dd0;  */
+            background-color: rgba(255, 112, 112, 0.82);
+            padding: 2em;
+            backdrop-filter: blur(10px);
+            text-align: left;
+        }
+
+        .about h1 {
+            border-bottom: 7px solid;
+            margin-bottom: 0.25em;
+            margin-left: 0;
+            margin-right: 0;
+            vertical-align: top;
+        }
+
+        .flex_tight {
+            flex: 1;
+            flex-grow: 0;
+        }
+
+        .hero h1 {
+            line-height: 1em;
+        }
+
+        .half {
+            flex: 1;
+            display: inline-block;
+            vertical-align: top;
+            padding-right: 2em;
+        }
+
+        .break {
+            flex-basis: 100%;
+        }
+
+        .how {
+            font-size: 2em;
+        }
+
+        .about h1:first-of-type {
+            margin-top: 0;
+        }
+
+        .follow {
+            text-align: right;
+            padding: 0;
+        }
+
+        .logo_area .association {
+            text-align: right;
+        }
+
+        .logo_area .phone {
+            display: none;
+        }
+
+
+        .footer_flex_section {
+            margin: 0 1em;
+        }
+
+        .mail {
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linejoin: round;
+            stroke-linecap: round;
+            stroke-miterlimit: 4;
+            fill: none;
+
+        }
+
+        @media (max-width: 1250px) {
+            .section {
+                padding-left: 0.5rem;
+                padding-right: 0.5rem;
+                width: 90vw;
+            }
+
+            .logo_area .intro,
+            .logo_area .association {
+                display: none;
+            }
+
+            h1 {
+                font-size: 3rem;
+            }
+
+            h2 {
+                font-size: 2rem;
+            }
+
+            h3 {
+                font-size: 1.5rem;
+            }
+        }
+
+        @media (orientation: portrait) {
+            .logo_area .phone {
+                display: inline-block;
+                margin: auto;
+                width: 100vw;
+                text-align: center;
+                padding-top: 2rem;
+            }
+
+            .title_image {
+                height: auto;
+                width: 80vw;
+            }
+
+            .video {
+                height: 40vh;
+            }
+
+            .flex_section,
+            .footer_flex_section {
+                flex-direction: column;
+            }
+
+            .footer_flex_section .half,
+            .socials_bar {
+                margin: auto;
+            }
+
+            .section {
+                max-width: 90vw;
+                padding: 0.5rem;
+            }
+
+            .logo_area {
+                height: 40vh;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            h2 {
+                font-size: 1.5em;
+            }
+
+            h3 {
+                font-size: 1em;
+            }
+
+            .header img {
+                height: 2.5rem;
+            }
+
+            .header_icon {
+                width: 19px;
+                height: 19px;
+            }
+
+            .footer img {
+                height: 2.5rem;
+            }
+
+            .footer h3 {
+                display: none;
+            }
+
+            .how {
+                font-size: 1em;
+            }
+
+            .about h1 {
+                border-bottom: 2px solid;
+            }
+
+            .follow {
+                text-align: center;
+            }
+
+            .half {
+                padding: 0;
+            }
+
+            .logo_area .intro,
+            .logo_area .association {
+                display: none;
+            }
+        }
