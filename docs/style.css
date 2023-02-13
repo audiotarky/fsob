@@ -315,7 +315,8 @@
                 display: none;
             }
 
-            .how {
+            .how,
+            ul {
                 font-size: 1em;
             }
 
