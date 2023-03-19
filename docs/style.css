@@ -158,6 +158,7 @@
             padding: 2em;
             backdrop-filter: blur(10px);
             text-align: left;
+            border-radius: 0.5em;
         }
 
         .about h1 {

@@ -1,0 +1,290 @@
+@keyframes openclose {
+
+    /* Country */
+    0.0% {
+        width: 0;
+        top: -0.0em
+    }
+
+    2.857142857142857% {
+        width: 750px;
+        top: -0.0em
+    }
+
+    5% {
+        width: 0px;
+        top: -0.0em
+    }
+
+    /* Ambient */
+    5.714285714285714% {
+        width: 0;
+        top: -1.5em
+    }
+
+    8.571428571428571% {
+        width: 750px;
+        top: -1.5em
+    }
+
+    11% {
+        width: 0px;
+        top: -1.5em
+    }
+
+    /* Blues */
+    11.428571428571429% {
+        width: 0;
+        top: -3.0em
+    }
+
+    14.285714285714286% {
+        width: 750px;
+        top: -3.0em
+    }
+
+    17% {
+        width: 0px;
+        top: -3.0em
+    }
+
+    /* Noise Pop */
+    17.142857142857142% {
+        width: 0;
+        top: -4.5em
+    }
+
+    20.0% {
+        width: 750px;
+        top: -4.5em
+    }
+
+    22% {
+        width: 0px;
+        top: -4.5em
+    }
+
+    /* Indie */
+    22.857142857142858% {
+        width: 0;
+        top: -6.0em
+    }
+
+    25.714285714285715% {
+        width: 750px;
+        top: -6.0em
+    }
+
+    28% {
+        width: 0px;
+        top: -6.0em
+    }
+
+    /* Folk */
+    28.571428571428573% {
+        width: 0;
+        top: -7.5em
+    }
+
+    31.42857142857143% {
+        width: 750px;
+        top: -7.5em
+    }
+
+    34% {
+        width: 0px;
+        top: -7.5em
+    }
+
+    /* Shoegaze */
+    34.285714285714285% {
+        width: 0;
+        top: -9.0em
+    }
+
+    37.142857142857146% {
+        width: 750px;
+        top: -9.0em
+    }
+
+    40% {
+        width: 0px;
+        top: -9.0em
+    }
+
+    /* Progressive */
+    40.0% {
+        width: 0;
+        top: -10.5em
+    }
+
+    42.85714285714286% {
+        width: 750px;
+        top: -10.5em
+    }
+
+    45% {
+        width: 0px;
+        top: -10.5em
+    }
+
+    /* Grunge */
+    45.714285714285715% {
+        width: 0;
+        top: -12.0em
+    }
+
+    48.57142857142857% {
+        width: 750px;
+        top: -12.0em
+    }
+
+    51% {
+        width: 0px;
+        top: -12.0em
+    }
+
+    /* World */
+    51.42857142857143% {
+        width: 0;
+        top: -13.5em
+    }
+
+    54.285714285714285% {
+        width: 750px;
+        top: -13.5em
+    }
+
+    57% {
+        width: 0px;
+        top: -13.5em
+    }
+
+    /* Soul */
+    57.142857142857146% {
+        width: 0;
+        top: -15.0em
+    }
+
+    60.0% {
+        width: 750px;
+        top: -15.0em
+    }
+
+    62% {
+        width: 0px;
+        top: -15.0em
+    }
+
+    /* Electro */
+    62.85714285714286% {
+        width: 0;
+        top: -16.5em
+    }
+
+    65.71428571428572% {
+        width: 750px;
+        top: -16.5em
+    }
+
+    68% {
+        width: 0px;
+        top: -16.5em
+    }
+
+    /* Experimental */
+    68.57142857142857% {
+        width: 0;
+        top: -18.0em
+    }
+
+    71.42857142857143% {
+        width: 750px;
+        top: -18.0em
+    }
+
+    74% {
+        width: 0px;
+        top: -18.0em
+    }
+
+    /* Alt Pop */
+    74.28571428571429% {
+        width: 0;
+        top: -19.5em
+    }
+
+    77.14285714285714% {
+        width: 750px;
+        top: -19.5em
+    }
+
+    80% {
+        width: 0px;
+        top: -19.5em
+    }
+
+    /* Alternative */
+    80.0% {
+        width: 0;
+        top: -21.0em
+    }
+
+    82.85714285714286% {
+        width: 750px;
+        top: -21.0em
+    }
+
+    85% {
+        width: 0px;
+        top: -21.0em
+    }
+
+    /* Jazz */
+    85.71428571428572% {
+        width: 0;
+        top: -22.5em
+    }
+
+    88.57142857142857% {
+        width: 750px;
+        top: -22.5em
+    }
+
+    91% {
+        width: 0px;
+        top: -22.5em
+    }
+
+    /* Techno */
+    91.42857142857143% {
+        width: 0;
+        top: -24.0em
+    }
+
+    94.28571428571429% {
+        width: 750px;
+        top: -24.0em
+    }
+
+    97% {
+        width: 0px;
+        top: -24.0em
+    }
+
+    /* Funk */
+    97.14285714285714% {
+        width: 0;
+        top: -25.5em
+    }
+
+    100.0% {
+        width: 750px;
+        top: -25.5em
+    }
+
+    102% {
+        width: 0px;
+        top: -25.5em
+    }
+}
