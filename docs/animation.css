@@ -1,7 +1,7 @@
 @keyframes openclose {
 
-    /* Country */
-    0.0% {
+    /* Alternative */
+    0% {
         width: 0;
         top: -0.0em
     }
@@ -16,7 +16,7 @@
         top: -0.0em
     }
 
-    /* Ambient */
+    /* Post-punk */
     5.714285714285714% {
         width: 0;
         top: -1.5em
@@ -32,7 +32,7 @@
         top: -1.5em
     }
 
-    /* Blues */
+    /* Alt Pop */
     11.428571428571429% {
         width: 0;
         top: -3.0em
@@ -48,7 +48,7 @@
         top: -3.0em
     }
 
-    /* Noise Pop */
+    /* Slowcore */
     17.142857142857142% {
         width: 0;
         top: -4.5em
@@ -64,7 +64,7 @@
         top: -4.5em
     }
 
-    /* Indie */
+    /* Trip-Hop */
     22.857142857142858% {
         width: 0;
         top: -6.0em
@@ -80,7 +80,7 @@
         top: -6.0em
     }
 
-    /* Folk */
+    /* Electronic */
     28.571428571428573% {
         width: 0;
         top: -7.5em
@@ -112,8 +112,8 @@
         top: -9.0em
     }
 
-    /* Progressive */
-    40.0% {
+    /* Country */
+    40.1% {
         width: 0;
         top: -10.5em
     }
@@ -128,7 +128,7 @@
         top: -10.5em
     }
 
-    /* Grunge */
+    /* Hyperpop */
     45.714285714285715% {
         width: 0;
         top: -12.0em
@@ -144,7 +144,7 @@
         top: -12.0em
     }
 
-    /* World */
+    /* Progressive */
     51.42857142857143% {
         width: 0;
         top: -13.5em
@@ -160,7 +160,7 @@
         top: -13.5em
     }
 
-    /* Soul */
+    /* Dreampop */
     57.142857142857146% {
         width: 0;
         top: -15.0em
@@ -176,7 +176,7 @@
         top: -15.0em
     }
 
-    /* Electro */
+    /* Art Rock */
     62.85714285714286% {
         width: 0;
         top: -16.5em
@@ -192,7 +192,7 @@
         top: -16.5em
     }
 
-    /* Experimental */
+    /* Punk rock */
     68.57142857142857% {
         width: 0;
         top: -18.0em
@@ -208,7 +208,7 @@
         top: -18.0em
     }
 
-    /* Alt Pop */
+    /* Classical */
     74.28571428571429% {
         width: 0;
         top: -19.5em
@@ -224,8 +224,8 @@
         top: -19.5em
     }
 
-    /* Alternative */
-    80.0% {
+    /* Hip hop */
+    80.1% {
         width: 0;
         top: -21.0em
     }
@@ -240,7 +240,7 @@
         top: -21.0em
     }
 
-    /* Jazz */
+    /* Ambient */
     85.71428571428572% {
         width: 0;
         top: -22.5em
@@ -256,7 +256,7 @@
         top: -22.5em
     }
 
-    /* Techno */
+    /* Heavy metal */
     91.42857142857143% {
         width: 0;
         top: -24.0em
@@ -272,7 +272,7 @@
         top: -24.0em
     }
 
-    /* Funk */
+    /* Rock */
     97.14285714285714% {
         width: 0;
         top: -25.5em
@@ -280,11 +280,6 @@
 
     100.0% {
         width: 750px;
-        top: -25.5em
-    }
-
-    102% {
-        width: 0px;
         top: -25.5em
     }
 }
