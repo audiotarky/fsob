@@ -1,122 +1,138 @@
 @keyframes openclose {
-    /* Soul */
+    /* neoclassical */
     0.0% { width: 0; top: -0.0em;}
-    1.694915254237288% { width: 100%; top: -0.0em;}
-    3% { width: 0px; top: -0.0em;}
-    /* Alt-Pop */
-    3.389830508474576% { width: 0; top: -1.5em;}
-    5.084745762711864% { width: 100%; top: -1.5em;}
-    6% { width: 0px; top: -1.5em;}
-    /* Rock */
-    6.779661016949152% { width: 0; top: -3.0em;}
-    8.47457627118644% { width: 100%; top: -3.0em;}
-    10% { width: 0px; top: -3.0em;}
-    /* Folk */
-    10.169491525423728% { width: 0; top: -4.5em;}
-    11.864406779661017% { width: 100%; top: -4.5em;}
-    13% { width: 0px; top: -4.5em;}
-    /* Desert Blues */
-    13.559322033898304% { width: 0; top: -6.0em;}
-    15.254237288135592% { width: 100%; top: -6.0em;}
-    16% { width: 0px; top: -6.0em;}
-    /* Breaks */
-    16.94915254237288% { width: 0; top: -7.5em;}
-    18.64406779661017% { width: 100%; top: -7.5em;}
-    20% { width: 0px; top: -7.5em;}
-    /* Trance */
-    20.338983050847457% { width: 0; top: -9.0em;}
-    22.033898305084744% { width: 100%; top: -9.0em;}
-    23% { width: 0px; top: -9.0em;}
-    /* Brass-house-soul */
-    23.728813559322035% { width: 0; top: -10.5em;}
-    25.423728813559322% { width: 100%; top: -10.5em;}
-    27% { width: 0px; top: -10.5em;}
-    /* Dance */
-    27.11864406779661% { width: 0; top: -12.0em;}
-    28.813559322033896% { width: 100%; top: -12.0em;}
-    30% { width: 0px; top: -12.0em;}
-    /* Punk rock */
-    30.508474576271183% { width: 0; top: -13.5em;}
-    32.20338983050847% { width: 100%; top: -13.5em;}
-    33% { width: 0px; top: -13.5em;}
-    /* Singer-Songwriter */
-    33.89830508474576% { width: 0; top: -15.0em;}
-    35.59322033898305% { width: 100%; top: -15.0em;}
-    37% { width: 0px; top: -15.0em;}
-    /* Dub */
-    37.28813559322034% { width: 0; top: -16.5em;}
-    38.983050847457626% { width: 100%; top: -16.5em;}
-    40% { width: 0px; top: -16.5em;}
-    /* Chillhop */
-    40.67796610169491% { width: 0; top: -18.0em;}
-    42.3728813559322% { width: 100%; top: -18.0em;}
-    44% { width: 0px; top: -18.0em;}
-    /* Pop */
-    44.06779661016949% { width: 0; top: -19.5em;}
-    45.762711864406775% { width: 100%; top: -19.5em;}
-    47% { width: 0px; top: -19.5em;}
-    /* Post Rock */
-    47.45762711864407% { width: 0; top: -21.0em;}
-    49.152542372881356% { width: 100%; top: -21.0em;}
-    50% { width: 0px; top: -21.0em;}
-    /* Electro */
-    50.847457627118644% { width: 0; top: -22.5em;}
-    52.54237288135593% { width: 100%; top: -22.5em;}
-    54% { width: 0px; top: -22.5em;}
-    /* Industrial Techno */
-    54.23728813559322% { width: 0; top: -24.0em;}
-    55.932203389830505% { width: 100%; top: -24.0em;}
-    57% { width: 0px; top: -24.0em;}
-    /* avant garde */
-    57.62711864406779% { width: 0; top: -25.5em;}
-    59.32203389830508% { width: 100%; top: -25.5em;}
-    61% { width: 0px; top: -25.5em;}
-    /* Reggaeton */
-    61.01694915254237% { width: 0; top: -27.0em;}
-    62.71186440677966% { width: 100%; top: -27.0em;}
-    64% { width: 0px; top: -27.0em;}
-    /* Trip Hop */
-    64.40677966101694% { width: 0; top: -28.5em;}
-    66.10169491525423% { width: 100%; top: -28.5em;}
-    67% { width: 0px; top: -28.5em;}
-    /* Slowcore */
-    67.79661016949152% { width: 0; top: -30.0em;}
-    69.49152542372882% { width: 100%; top: -30.0em;}
-    71% { width: 0px; top: -30.0em;}
-    /* Downtempo */
-    71.1864406779661% { width: 0; top: -31.5em;}
-    72.88135593220339% { width: 100%; top: -31.5em;}
-    74% { width: 0px; top: -31.5em;}
-    /* Americana */
-    74.57627118644068% { width: 0; top: -33.0em;}
-    76.27118644067797% { width: 100%; top: -33.0em;}
-    77% { width: 0px; top: -33.0em;}
-    /* Alt Pop */
-    77.96610169491525% { width: 0; top: -34.5em;}
-    79.66101694915254% { width: 100%; top: -34.5em;}
-    81% { width: 0px; top: -34.5em;}
-    /* Orchestral Funktronica */
-    81.35593220338983% { width: 0; top: -36.0em;}
-    83.05084745762711% { width: 100%; top: -36.0em;}
-    84% { width: 0px; top: -36.0em;}
-    /* Shoegaze */
-    84.7457627118644% { width: 0; top: -37.5em;}
-    86.44067796610169% { width: 100%; top: -37.5em;}
-    88% { width: 0px; top: -37.5em;}
-    /* Roots */
-    88.13559322033898% { width: 0; top: -39.0em;}
-    89.83050847457626% { width: 100%; top: -39.0em;}
-    91% { width: 0px; top: -39.0em;}
-    /* noise pop */
-    91.52542372881355% { width: 0; top: -40.5em;}
-    93.22033898305084% { width: 100%; top: -40.5em;}
-    94% { width: 0px; top: -40.5em;}
-    /* Funk */
-    94.91525423728814% { width: 0; top: -42.0em;}
-    96.61016949152543% { width: 100%; top: -42.0em;}
-    98% { width: 0px; top: -42.0em;}
+    1.492537313432836% { width: 100%; top: -0.0em;}
+    2% { width: 0px; top: -0.0em;}
+    /* Psyfrobeat */
+    2.985074626865672% { width: 0; top: -1.5em;}
+    4.477611940298508% { width: 100%; top: -1.5em;}
+    5% { width: 0px; top: -1.5em;}
+    /* Briminal */
+    5.970149253731344% { width: 0; top: -3.0em;}
+    7.462686567164179% { width: 100%; top: -3.0em;}
+    8% { width: 0px; top: -3.0em;}
+    /* Heavy metal */
+    8.955223880597016% { width: 0; top: -4.5em;}
+    10.447761194029852% { width: 100%; top: -4.5em;}
+    11% { width: 0px; top: -4.5em;}
     /* hybrid */
-    98.30508474576271% { width: 0; top: -43.5em;}
-    100.0% { width: 100%; top: -43.5em;}
-    101% { width: 0px; top: -43.5em;}
+    11.940298507462687% { width: 0; top: -6.0em;}
+    13.432835820895523% { width: 100%; top: -6.0em;}
+    14% { width: 0px; top: -6.0em;}
+    /* Rock */
+    14.925373134328359% { width: 0; top: -7.5em;}
+    16.417910447761194% { width: 100%; top: -7.5em;}
+    17% { width: 0px; top: -7.5em;}
+    /* psychedelic rock */
+    17.910447761194032% { width: 0; top: -9.0em;}
+    19.402985074626866% { width: 100%; top: -9.0em;}
+    20% { width: 0px; top: -9.0em;}
+    /* Reggae */
+    20.895522388059703% { width: 0; top: -10.5em;}
+    22.388059701492537% { width: 100%; top: -10.5em;}
+    23% { width: 0px; top: -10.5em;}
+    /* Art Rock */
+    23.880597014925375% { width: 0; top: -12.0em;}
+    25.373134328358212% { width: 100%; top: -12.0em;}
+    26% { width: 0px; top: -12.0em;}
+    /* Experimental */
+    26.865671641791046% { width: 0; top: -13.5em;}
+    28.358208955223883% { width: 100%; top: -13.5em;}
+    29% { width: 0px; top: -13.5em;}
+    /* Blues */
+    29.850746268656717% { width: 0; top: -15.0em;}
+    31.343283582089555% { width: 100%; top: -15.0em;}
+    32% { width: 0px; top: -15.0em;}
+    /* Dub */
+    32.83582089552239% { width: 0; top: -16.5em;}
+    34.32835820895522% { width: 100%; top: -16.5em;}
+    35% { width: 0px; top: -16.5em;}
+    /* noise pop */
+    35.820895522388064% { width: 0; top: -18.0em;}
+    37.3134328358209% { width: 100%; top: -18.0em;}
+    38% { width: 0px; top: -18.0em;}
+    /* Dance */
+    38.80597014925373% { width: 0; top: -19.5em;}
+    40.29850746268657% { width: 100%; top: -19.5em;}
+    41% { width: 0px; top: -19.5em;}
+    /* Funk */
+    41.791044776119406% { width: 0; top: -21.0em;}
+    43.28358208955224% { width: 100%; top: -21.0em;}
+    44% { width: 0px; top: -21.0em;}
+    /* Chillhop */
+    44.776119402985074% { width: 0; top: -22.5em;}
+    46.268656716417915% { width: 100%; top: -22.5em;}
+    47% { width: 0px; top: -22.5em;}
+    /* Electronic */
+    47.76119402985075% { width: 0; top: -24.0em;}
+    49.25373134328358% { width: 100%; top: -24.0em;}
+    50% { width: 0px; top: -24.0em;}
+    /* Trance */
+    50.746268656716424% { width: 0; top: -25.5em;}
+    52.23880597014926% { width: 100%; top: -25.5em;}
+    53% { width: 0px; top: -25.5em;}
+    /* Hip hop */
+    53.73134328358209% { width: 0; top: -27.0em;}
+    55.223880597014926% { width: 100%; top: -27.0em;}
+    56% { width: 0px; top: -27.0em;}
+    /* Dubstep */
+    56.71641791044777% { width: 0; top: -28.5em;}
+    58.2089552238806% { width: 100%; top: -28.5em;}
+    59% { width: 0px; top: -28.5em;}
+    /* Alt-Pop */
+    59.701492537313435% { width: 0; top: -30.0em;}
+    61.194029850746276% { width: 100%; top: -30.0em;}
+    62% { width: 0px; top: -30.0em;}
+    /* Trip Hop */
+    62.68656716417911% { width: 0; top: -31.5em;}
+    64.17910447761194% { width: 100%; top: -31.5em;}
+    65% { width: 0px; top: -31.5em;}
+    /* Americana */
+    65.67164179104478% { width: 0; top: -33.0em;}
+    67.16417910447761% { width: 100%; top: -33.0em;}
+    68% { width: 0px; top: -33.0em;}
+    /* Electro */
+    68.65671641791045% { width: 0; top: -34.5em;}
+    70.1492537313433% { width: 100%; top: -34.5em;}
+    71% { width: 0px; top: -34.5em;}
+    /* trap */
+    71.64179104477613% { width: 0; top: -36.0em;}
+    73.13432835820896% { width: 100%; top: -36.0em;}
+    74% { width: 0px; top: -36.0em;}
+    /* Industrial Techno */
+    74.6268656716418% { width: 0; top: -37.5em;}
+    76.11940298507463% { width: 100%; top: -37.5em;}
+    77% { width: 0px; top: -37.5em;}
+    /* Punk rock */
+    77.61194029850746% { width: 0; top: -39.0em;}
+    79.1044776119403% { width: 100%; top: -39.0em;}
+    80% { width: 0px; top: -39.0em;}
+    /* Country */
+    80.59701492537314% { width: 0; top: -40.5em;}
+    82.08955223880598% { width: 100%; top: -40.5em;}
+    83% { width: 0px; top: -40.5em;}
+    /* Dreampop */
+    83.58208955223881% { width: 0; top: -42.0em;}
+    85.07462686567165% { width: 100%; top: -42.0em;}
+    86% { width: 0px; top: -42.0em;}
+    /* Post-punk */
+    86.56716417910448% { width: 0; top: -43.5em;}
+    88.05970149253731% { width: 100%; top: -43.5em;}
+    89% { width: 0px; top: -43.5em;}
+    /* Breaks */
+    89.55223880597015% { width: 0; top: -45.0em;}
+    91.044776119403% { width: 100%; top: -45.0em;}
+    92% { width: 0px; top: -45.0em;}
+    /* Jazz */
+    92.53731343283583% { width: 0; top: -46.5em;}
+    94.02985074626866% { width: 100%; top: -46.5em;}
+    95% { width: 0px; top: -46.5em;}
+    /* Indie */
+    95.5223880597015% { width: 0; top: -48.0em;}
+    97.01492537313433% { width: 100%; top: -48.0em;}
+    98% { width: 0px; top: -48.0em;}
+    /* Alternative */
+    98.50746268656717% { width: 0; top: -49.5em;}
+    100.0% { width: 100%; top: -49.5em;}
+    101% { width: 0px; top: -49.5em;}
 }
