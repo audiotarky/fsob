@@ -1,137 +1,137 @@
 @keyframes openclose {
-    /* Hyperpop */
+    /* Latin */
     0.0% { width: 0; top: -0.0em;}
     1.492537313432836% { width: 100%; top: -0.0em;}
     2% { width: 0px; top: -0.0em;}
-    /* Alternative */
+    /* Drum & Bass */
     2.985074626865672% { width: 0; top: -1.5em;}
     4.477611940298508% { width: 100%; top: -1.5em;}
     5% { width: 0px; top: -1.5em;}
-    /* Post-punk */
+    /* Dub */
     5.970149253731344% { width: 0; top: -3.0em;}
     7.462686567164179% { width: 100%; top: -3.0em;}
     8% { width: 0px; top: -3.0em;}
-    /* psych folk */
+    /* Chillhop */
     8.955223880597016% { width: 0; top: -4.5em;}
     10.447761194029852% { width: 100%; top: -4.5em;}
     11% { width: 0px; top: -4.5em;}
-    /* Dubstep */
+    /* Country */
     11.940298507462687% { width: 0; top: -6.0em;}
     13.432835820895523% { width: 100%; top: -6.0em;}
     14% { width: 0px; top: -6.0em;}
-    /* Grime */
+    /* Steppa */
     14.925373134328359% { width: 0; top: -7.5em;}
     16.417910447761194% { width: 100%; top: -7.5em;}
     17% { width: 0px; top: -7.5em;}
-    /* Reggaeton */
+    /* Soul */
     17.910447761194032% { width: 0; top: -9.0em;}
     19.402985074626866% { width: 100%; top: -9.0em;}
     20% { width: 0px; top: -9.0em;}
-    /* Shoegaze */
+    /* Experimental */
     20.895522388059703% { width: 0; top: -10.5em;}
     22.388059701492537% { width: 100%; top: -10.5em;}
     23% { width: 0px; top: -10.5em;}
-    /* Punk rock */
+    /* psych folk */
     23.880597014925375% { width: 0; top: -12.0em;}
     25.373134328358212% { width: 100%; top: -12.0em;}
     26% { width: 0px; top: -12.0em;}
-    /* Latin */
+    /* Dance */
     26.865671641791046% { width: 0; top: -13.5em;}
     28.358208955223883% { width: 100%; top: -13.5em;}
     29% { width: 0px; top: -13.5em;}
-    /* Indie */
+    /* Reggae */
     29.850746268656717% { width: 0; top: -15.0em;}
     31.343283582089555% { width: 100%; top: -15.0em;}
     32% { width: 0px; top: -15.0em;}
-    /* Dub */
+    /* Alt-Pop */
     32.83582089552239% { width: 0; top: -16.5em;}
     34.32835820895522% { width: 100%; top: -16.5em;}
     35% { width: 0px; top: -16.5em;}
-    /* Country */
+    /* Orchestral Funktronica */
     35.820895522388064% { width: 0; top: -18.0em;}
     37.3134328358209% { width: 100%; top: -18.0em;}
     38% { width: 0px; top: -18.0em;}
-    /* Roots */
+    /* Shoegaze */
     38.80597014925373% { width: 0; top: -19.5em;}
     40.29850746268657% { width: 100%; top: -19.5em;}
     41% { width: 0px; top: -19.5em;}
-    /* Downtempo */
+    /* Blues */
     41.791044776119406% { width: 0; top: -21.0em;}
     43.28358208955224% { width: 100%; top: -21.0em;}
     44% { width: 0px; top: -21.0em;}
-    /* Funk */
+    /* Techno */
     44.776119402985074% { width: 0; top: -22.5em;}
     46.268656716417915% { width: 100%; top: -22.5em;}
     47% { width: 0px; top: -22.5em;}
-    /* Pop */
+    /* Grime */
     47.76119402985075% { width: 0; top: -24.0em;}
     49.25373134328358% { width: 100%; top: -24.0em;}
     50% { width: 0px; top: -24.0em;}
-    /* Experimental */
+    /* Heavy metal */
     50.746268656716424% { width: 0; top: -25.5em;}
     52.23880597014926% { width: 100%; top: -25.5em;}
     53% { width: 0px; top: -25.5em;}
-    /* Rock */
+    /* Ambient */
     53.73134328358209% { width: 0; top: -27.0em;}
     55.223880597014926% { width: 100%; top: -27.0em;}
     56% { width: 0px; top: -27.0em;}
-    /* Dreampop */
+    /* Brass-house-soul */
     56.71641791044777% { width: 0; top: -28.5em;}
     58.2089552238806% { width: 100%; top: -28.5em;}
     59% { width: 0px; top: -28.5em;}
-    /* Ambient */
+    /* Singer-Songwriter */
     59.701492537313435% { width: 0; top: -30.0em;}
     61.194029850746276% { width: 100%; top: -30.0em;}
     62% { width: 0px; top: -30.0em;}
-    /* Brass-house-soul */
+    /* World */
     62.68656716417911% { width: 0; top: -31.5em;}
     64.17910447761194% { width: 100%; top: -31.5em;}
     65% { width: 0px; top: -31.5em;}
-    /* Dance */
+    /* Folk */
     65.67164179104478% { width: 0; top: -33.0em;}
     67.16417910447761% { width: 100%; top: -33.0em;}
     68% { width: 0px; top: -33.0em;}
-    /* avant garde */
+    /* Classical */
     68.65671641791045% { width: 0; top: -34.5em;}
     70.1492537313433% { width: 100%; top: -34.5em;}
     71% { width: 0px; top: -34.5em;}
-    /* Drum & Bass */
+    /* Trip Hop */
     71.64179104477613% { width: 0; top: -36.0em;}
     73.13432835820896% { width: 100%; top: -36.0em;}
     74% { width: 0px; top: -36.0em;}
-    /* Alt Pop */
+    /* Downtempo */
     74.6268656716418% { width: 0; top: -37.5em;}
     76.11940298507463% { width: 100%; top: -37.5em;}
     77% { width: 0px; top: -37.5em;}
-    /* noise pop */
+    /* Briminal */
     77.61194029850746% { width: 0; top: -39.0em;}
     79.1044776119403% { width: 100%; top: -39.0em;}
     80% { width: 0px; top: -39.0em;}
-    /* Psyfrobeat */
+    /* noise pop */
     80.59701492537314% { width: 0; top: -40.5em;}
     82.08955223880598% { width: 100%; top: -40.5em;}
     83% { width: 0px; top: -40.5em;}
-    /* Folk */
+    /* Americana */
     83.58208955223881% { width: 0; top: -42.0em;}
     85.07462686567165% { width: 100%; top: -42.0em;}
     86% { width: 0px; top: -42.0em;}
-    /* Orchestral Funktronica */
+    /* Trip-Hop */
     86.56716417910448% { width: 0; top: -43.5em;}
     88.05970149253731% { width: 100%; top: -43.5em;}
     89% { width: 0px; top: -43.5em;}
-    /* Noise Pop */
+    /* Alt Pop */
     89.55223880597015% { width: 0; top: -45.0em;}
     91.044776119403% { width: 100%; top: -45.0em;}
     92% { width: 0px; top: -45.0em;}
-    /* Trip Hop */
+    /* Roots */
     92.53731343283583% { width: 0; top: -46.5em;}
     94.02985074626866% { width: 100%; top: -46.5em;}
     95% { width: 0px; top: -46.5em;}
-    /* Reggae */
+    /* Hyperpop */
     95.5223880597015% { width: 0; top: -48.0em;}
     97.01492537313433% { width: 100%; top: -48.0em;}
     98% { width: 0px; top: -48.0em;}
-    /* neoclassical */
+    /* Funk */
     98.50746268656717% { width: 0; top: -49.5em;}
     100.0% { width: 100%; top: -49.5em;}
     101% { width: 0px; top: -49.5em;}
