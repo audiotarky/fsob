@@ -113,6 +113,17 @@
             padding: 2em 0 0 0;
         }
 
+        .w-full {
+            width: 100%;
+        }
+
+        .third_prize {
+            object-fit: cover;
+            object-position: center;
+            height: 245px;
+            width: 100%;
+        }
+
         .header img {
             height: 5rem;
         }
